@@ -1,0 +1,6 @@
+Options -indexes
+
+ # Block External Access
+<Directory "/latihan/">
+deny from all
+</Directory>
